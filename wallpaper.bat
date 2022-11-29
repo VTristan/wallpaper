@@ -1,0 +1,3 @@
+echo off
+echo wait few seconds...
+.\wallpaper.exe "C:/Users/T/Pictures/bg/" 30 10
